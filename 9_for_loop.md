@@ -167,4 +167,4 @@ Average of adults is 29.0
 
 ---
 
-💾 Created by ChatGPT — Python Loop Practice Guide
+
